@@ -1,5 +1,5 @@
 {
-  "name": "transbank/transbank-sdk",
+  "name": "soberanes/transbank-sdk",
   "description": "Transbank SDK",
   "keywords": ["payments", "transbank", "api", "sdk"],
   "require": {
